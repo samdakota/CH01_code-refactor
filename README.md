@@ -18,7 +18,7 @@ The assignment required the following acceptance criteria:
     THEN I find a concise, descriptive title
 
 ## Visuals
-The refactored code generates a page that looks the same as the original code:
+The refactored code generates a page that looks the same as the original:
 
 ![https screenshot](https://user-images.githubusercontent.com/96785256/155905787-928cf486-b889-4acb-97aa-ad642f765f96.png)
 
